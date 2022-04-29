@@ -1,0 +1,19 @@
+{
+  "name": "mdheaderstodetails",
+  "version": "1.0.0",
+  "description": "Convert a Markdown document so that all headers with text below become a collapsed section",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Twi1ightSparkle/mdHeadersToDetails.git"
+  },
+  "author": "Twilight Sparkle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Twi1ightSparkle/mdHeadersToDetails/issues"
+  },
+  "homepage": "https://github.com/Twi1ightSparkle/mdHeadersToDetails#readme",
+  "dependencies": {
+    "prettier": "^2.6.2"
+  }
+}
